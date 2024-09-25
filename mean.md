@@ -2,7 +2,7 @@
 
 The MEAN stack is a full-stack JavaScript ecosystem for developing web applications, leveraging a unified language across the entire development stack. It comprises four core technologies: MongoDB, Express.js, Angular, and Node.js. Each component serves a specific function in the application architecture, synergizing to create a robust and efficient web development environment.
 
-   ![image](https://github.com/user-attachments/assets/180cd784-ac18-46ee-b148-c24b5bc90e4e)
+![image](https://github.com/user-attachments/assets/9f24eed3-b391-4695-ac4a-0292839c618c)
 
 ## Stack Components
 
